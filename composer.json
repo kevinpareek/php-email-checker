@@ -1,0 +1,28 @@
+{
+    "name": "kevinpareek/emailchecker",
+    "description": "Package for checking email address is exist or not in real world",
+    "keywords": [
+        "email validation",
+        "disposable email checker",
+        "php email verifier",
+        "email exist or not",
+        "disposable emails",
+        "email verification"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Pareek",
+            "email": "hi@kevinpareek.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KevinPareek\\EmailChecker\\": "src/"
+        }
+    }
+}
