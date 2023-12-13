@@ -12,7 +12,7 @@ PHP 7.3+ and installed cURL extension.
 
 Add EmailChecker to the composer.json configuration file.
 ```
-composer require kevinpareek/emailverifier
+composer require kevinpareek/emailchecker
 ```
 
 And update the composer
